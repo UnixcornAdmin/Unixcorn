@@ -1,3 +1,4 @@
+<img width="1024" height="1024" alt="7660" src="https://github.com/user-attachments/assets/dfc49985-0803-4f5a-86cc-6323d30b4b8b" />
 Unixcorn 🦄
 Unixcorn is a free, open source Linux distribution built with transgender, nonbinary, and gender fluid users in mind. It is designed to be fun, capable, private, and safe without sacrificing power for those who want to go deeper.
 
