@@ -5,11 +5,14 @@ Unixcorn is a free, open source Linux distribution built with transgender, nonbi
 This is not just another Linux distro. It is a space that sees you.
 
 Vision
-Most operating systems treat identity as an afterthought.Unixcorn treats it as a foundation. From first boot, users can choose how they want their system to look and feel... not through gendered labels, but through aesthetic expression. Pronouns, salutations, and daily presentation options are built in, optional, and respected throughout the system.
+
+Most operating systems treat identity as an afterthought. Unixcorn treats it as a foundation. From first boot, users can choose how they want their system to look and feel... not through gendered labels, but through aesthetic expression. Pronouns, salutations, and daily presentation options are built in, optional, and respected throughout the system.
 Privacy and security are not features. They are defaults.
 
 Goals
-A modular installation experience — install what you need, nothing you don't. Gaming ready when you want it. Lightweight when you don't. Beautiful always.
+
+A modular installation experience... install what you need, nothing you don't. Gaming ready when you want it. Lightweight when you don't. Beautiful always.
 
 Status
+
 Early concept phase. Building the foundation. Contributors welcome.
